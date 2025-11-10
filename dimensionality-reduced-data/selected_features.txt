@@ -1,0 +1,12 @@
+Top 10 features được chọn bởi SelectKBest:
+--------------------------------------------------
+1. Adult Mortality (F-score: 1936.17)
+2. BMI (F-score: 926.69)
+3. Polio (F-score: 496.10)
+4. Diphtheria (F-score: 556.06)
+5. HIV/AIDS (F-score: 935.39)
+6. thinness  1-19 years (F-score: 590.59)
+7. thinness 5-9 years (F-score: 596.04)
+8. Income composition of resources (F-score: 1953.29)
+9. Schooling (F-score: 2186.35)
+10. Status_Developing (F-score: 613.14)
