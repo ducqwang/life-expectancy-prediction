@@ -181,11 +181,6 @@ Các biểu đồ và hình ảnh được lưu trong:
 - [PCA Tutorial](https://scikit-learn.org/stable/modules/decomposition.html#pca)
 - [Feature Selection](https://scikit-learn.org/stable/modules/feature_selection.html)
 
-## Liên hệ
-
-Nếu có câu hỏi hoặc góp ý, vui lòng liên hệ:
-- GitHub: [@ducqwang](https://github.com/ducqwang)
-- Email: [ducqwang@example.com]
 
 ---
 **Lưu ý:** Đây là dự án học tập, kết quả chỉ mang tính chất tham khảo và không nên sử dụng cho mục đích y tế thực tế.
