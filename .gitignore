@@ -18,5 +18,3 @@ env/
 .vscode/
 .idea/
 
-#management
-uv.lock
