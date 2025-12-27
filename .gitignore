@@ -17,3 +17,6 @@ env/
 # IDE files
 .vscode/
 .idea/
+
+#management
+uv.lock
