@@ -1,0 +1,30 @@
+Link lấy dữ liệu và hướng dẫn
+
+1) Dữ liệu được lấy từ link sau:
+https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
+
+2) Tổ chức thư mục cho dự án.
+Bài tập lớn được tổ chức theo dạng Project với cây thư mục sau:
+
+life-expectancy-prediction/
+│
+├── data/
+│   └── Life Expectancy Data.csv
+│
+├── dimensionality-reduced-data/
+│
+│
+├── results/
+│   ├── figures/
+│   ├── knn_result/
+│   └── linear_result/
+│
+├── src/
+│	└── source.ipynb
+├── .gitignore
+├── README.md
+└── requirements.txt
+
+
+Hoặc source code project tại github:
+https://github.com/ducqwang/life-expectancy-prediction
